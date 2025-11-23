@@ -1,4 +1,4 @@
-<h2 align="left">Hi ! I am Aayush and I love to code...</h2>
+<h2 align="left">Hi ! I am Aayush and I love working on backend technology and devops. My current focus is on building and optimizing full CI/CD pipelines. Welcome to my profile!</h2>
 
 ###
 
